@@ -1,0 +1,5 @@
+DESCRIPTION = "Channel Description"
+NAME = "Channel Name"
+YT_CHANNEL = "https://www.youtube.com/@channelname"
+HOSTNAME = "localhost"
+NUM_EPISODES = "15"
